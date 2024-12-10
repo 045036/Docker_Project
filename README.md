@@ -15,6 +15,10 @@ License
 Introduction
 Kanboard is an open-source project management software that focuses on simplicity and ease of use. It is a Kanban-based tool that helps teams track project progress and manage tasks effectively. This project sets up Kanboard using Docker, which allows you to quickly deploy and run Kanboard in an isolated environment.
 
+
+https://github.com/user-attachments/assets/e55db099-6f5d-4d29-8876-3cb3edc21613
+
+
 This repository contains the steps and configuration needed to run Kanboard with Docker.
 
 Prerequisites
